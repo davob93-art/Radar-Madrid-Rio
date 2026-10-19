@@ -1,0 +1,20 @@
+{
+ "ultimaRevision": "2026-10-19T16:05:00+02:00",
+ "nuevos": 57,
+ "fuentes": [
+  "yaencontre",
+  "Tecnocasa",
+  "Redpiso",
+  "Habitaclia",
+  "Housfy",
+  "Wallapop",
+  "búsqueda web"
+ ],
+ "alertas": {
+  "activo": true,
+  "email": "sonsolesblancopm@gmail.com",
+  "idealista": true,
+  "fotocasa": true,
+  "otras": ""
+ }
+}

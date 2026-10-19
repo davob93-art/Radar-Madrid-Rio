@@ -1,0 +1,42 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "es.radar.madridrio"
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "es.radar.madridrio"
+        minSdk 26
+        targetSdk 34
+        versionCode (System.getenv("GITHUB_RUN_NUMBER") ? System.getenv("GITHUB_RUN_NUMBER").toInteger() : 1)
+        versionName "1.0." + (System.getenv("GITHUB_RUN_NUMBER") ?: "0")
+    }
+
+    // A fixed signing key keeps updates installable over the previous version.
+    // The keystore is created once by the build workflow and stored in the repo's secrets.
+    signingConfigs {
+        release {
+            def ks = System.getenv("RADAR_KEYSTORE_PATH")
+            if (ks) {
+                storeFile file(ks)
+                storePassword System.getenv("RADAR_KEYSTORE_PASSWORD")
+                keyAlias "radar"
+                keyPassword System.getenv("RADAR_KEYSTORE_PASSWORD")
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig System.getenv("RADAR_KEYSTORE_PATH") ? signingConfigs.release : signingConfigs.debug
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
