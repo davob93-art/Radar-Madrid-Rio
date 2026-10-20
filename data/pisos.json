@@ -126,6 +126,30 @@
   "url": "https://english.habitaclia.com/buy-flat-in-madrid-i40794000000596.htm"
  },
  {
+  "id": "hab-47264000000540",
+  "agencia": "Exmed House",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Buenavista",
+  "calle": "",
+  "cercania": 4,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "Habitaclia",
+  "hab": 1,
+  "m2": 56,
+  "planta": "Bajo",
+  "precio": 130000,
+  "rasgos": [
+   "Ocupado",
+   "Sin visitas"
+  ],
+  "resumen": "Bajo ocupado sin título en Buenavista; precio muy bajo por esa razón.",
+  "situacion": "ocupado",
+  "url": "https://english.habitaclia.com/buy-flat-in-madrid-i47264000000540.htm"
+ },
+ {
   "id": "hab-53643000000028",
   "agencia": "Tecnocasa",
   "anuncios": 1,
@@ -1047,6 +1071,29 @@
   "resumen": "Vivienda de 55 m² en Zofío, a 3.909 €/m².",
   "situacion": "libre",
   "url": "https://www.redpiso.es/inmueble/piso-en-venta-en-calle-del-parque-de-la-paloma-zofio-usera-madrid-RP832026154182"
+ },
+ {
+  "id": "sol-103727",
+  "agencia": "Solvia",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 0,
+  "barrio": "Puerta Bonita",
+  "calle": "C/ Clara Campoamor",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "Solvia",
+  "hab": 2,
+  "m2": 55,
+  "planta": "",
+  "precio": 240000,
+  "rasgos": [
+   "Banco"
+  ],
+  "resumen": "Piso de banco de 55 m² en Clara Campoamor; Solvia da pocos detalles.",
+  "situacion": "libre",
+  "url": "https://www.solvia.es/es/propiedades/comprar/piso-madrid-2-dormitorios-66284-103727"
  },
  {
   "id": "tc-544372",
@@ -2267,6 +2314,31 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-91254-111783545"
  },
  {
+  "id": "ya-111786854",
+  "agencia": "Redpiso Comillas",
+  "anuncios": 1,
+  "ascensor": true,
+  "banos": 2,
+  "barrio": "Comillas",
+  "calle": "",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 52,
+  "planta": "Bajo",
+  "precio": 240000,
+  "rasgos": [
+   "Exterior",
+   "Dos baños",
+   "Aire acondicionado"
+  ],
+  "resumen": "Bajo exterior con dos baños en Comillas, edificio con ascensor.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-74234-111786854"
+ },
+ {
   "id": "ya-111808837",
   "agencia": "Tecnocasa Carabanchel Alto",
   "anuncios": 1,
@@ -2941,6 +3013,31 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-56883-112111587"
  },
  {
+  "id": "ya-112137549",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Opañel",
+  "calle": "C/ Urogallo",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 1,
+  "m2": 65,
+  "planta": "Bajo",
+  "precio": 240000,
+  "rasgos": [
+   "Dúplex",
+   "Reformado",
+   "Trastero"
+  ],
+  "resumen": "Dúplex reformado de un dormitorio con trastero en Opañel.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-40566-112137549"
+ },
+ {
   "id": "ya-112138273",
   "agencia": "Trencadis",
   "anuncios": 1,
@@ -3234,6 +3331,30 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-47915-112295134"
  },
  {
+  "id": "ya-112295149",
+  "agencia": "SA Roqueta Investment",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Abrantes",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 57,
+  "planta": "",
+  "precio": 216200,
+  "rasgos": [
+   "Compra de deuda",
+   "Sin posesión"
+  ],
+  "resumen": "Cesión de crédito hipotecario sobre un piso en Abrantes; no es una compra directa.",
+  "situacion": "deuda",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-47915-112295149"
+ },
+ {
   "id": "ya-112295161",
   "agencia": "SA Roqueta Investment",
   "anuncios": 1,
@@ -3381,6 +3502,56 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-41382-112393804"
  },
  {
+  "id": "ya-112398985",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Opañel",
+  "calle": "C/ Fernando González",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 58,
+  "planta": "Bajo",
+  "precio": 210000,
+  "precioAnterior": 230000,
+  "rasgos": [
+   "Exterior",
+   "A reformar",
+   "Rebajado"
+  ],
+  "resumen": "Bajo exterior para reformar con rebaja de 20.000 €.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-81232-112398985"
+ },
+ {
+  "id": "ya-112448965",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Opañel",
+  "calle": "Zona Urgel",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 55,
+  "planta": "3ª planta",
+  "precio": 235000,
+  "rasgos": [
+   "Exterior",
+   "Armarios empotrados"
+  ],
+  "resumen": "Dos dormitorios exteriores en la zona de Urgel.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-56097-112448965"
+ },
+ {
   "id": "ya-112476560",
   "agencia": "",
   "anuncios": 2,
@@ -3427,6 +3598,30 @@
   "resumen": "Piso de 56 m² y 1 hab. en Puerta del Ángel (bajo), a 4.268 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-86724-112477147"
+ },
+ {
+  "id": "ya-112485618",
+  "agencia": "SA Roqueta Investment",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Opañel",
+  "calle": "",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 74,
+  "planta": "",
+  "precio": 244000,
+  "rasgos": [
+   "Sin posesión",
+   "Inversión"
+  ],
+  "resumen": "Tres dormitorios vendidos sin posesión ni visitas interiores.",
+  "situacion": "ocupado",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-47915-112485618"
  },
  {
   "id": "ya-112489478",
@@ -3524,6 +3719,30 @@
   "resumen": "Piso de 76 m² y 3 hab. en Abrantes (2ª planta). a 3,224 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-38545-112509234"
+ },
+ {
+  "id": "ya-112518270",
+  "agencia": "Roan",
+  "anuncios": 1,
+  "ascensor": true,
+  "banos": 1,
+  "barrio": "Opañel",
+  "calle": "C/ General Ricardos",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 63,
+  "planta": "1ª planta",
+  "precio": 248000,
+  "rasgos": [
+   "Ocupado",
+   "Ascensor"
+  ],
+  "resumen": "Vivienda ocupada en General Ricardos, sin visitas; solo para inversor.",
+  "situacion": "ocupado",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-38957-112518270"
  },
  {
   "id": "ya-112550753",
@@ -3660,7 +3879,8 @@
   "hab": 2,
   "m2": 74,
   "planta": "2ª planta",
-  "precio": 248000,
+  "precio": 229990,
+  "precioAnterior": 248000,
   "rasgos": [
    "Balcón",
    "Trastero"
@@ -3716,6 +3936,32 @@
   "resumen": "Piso de 61 m² y 2 hab. en Opañel (4ª planta), a 4.098 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-61111-112586980"
+ },
+ {
+  "id": "ya-112587318",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Opañel",
+  "calle": "Cerca metro Urgel",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 50,
+  "planta": "1ª planta",
+  "precio": 235000,
+  "precioAnterior": 245000,
+  "rasgos": [
+   "Terraza",
+   "Ascensor en obras",
+   "Rebajado"
+  ],
+  "resumen": "Dos dormitorios con terraza junto a Urgel; el edificio está instalando ascensor.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-56179-112587318"
  },
  {
   "id": "ya-112593203",
@@ -4108,6 +4354,32 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-39084-112643498"
  },
  {
+  "id": "ya-112653641",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 71,
+  "planta": "2ª planta",
+  "precio": 225000,
+  "precioAnterior": 240000,
+  "rasgos": [
+   "Terraza",
+   "Ascensor en obras",
+   "Rebajado"
+  ],
+  "resumen": "71 m² con terraza; el ascensor está en construcción y el precio ha bajado.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-56179-112653641"
+ },
+ {
   "id": "ya-112653939",
   "agencia": "",
   "anuncios": 2,
@@ -4135,7 +4407,7 @@
  {
   "id": "ya-112654655",
   "agencia": "",
-  "anuncios": 1,
+  "anuncios": 3,
   "ascensor": false,
   "banos": 1,
   "barrio": "Vista Alegre",
@@ -4306,7 +4578,7 @@
  {
   "id": "ya-112679264",
   "agencia": "",
-  "anuncios": 1,
+  "anuncios": 2,
   "ascensor": false,
   "banos": 1,
   "barrio": "Puerta Bonita",
@@ -4327,6 +4599,30 @@
   "resumen": "Piso de 78 m² y 2 hab. en Puerta Bonita (1ª planta), a 3.128 €/m²; se vende alquilado.",
   "situacion": "alquilado",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-55263-112679264"
+ },
+ {
+  "id": "ya-112682432",
+  "agencia": "Realta by Keller Williams",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 62,
+  "planta": "2ª planta",
+  "precio": 215000,
+  "rasgos": [
+   "Exterior",
+   "Terraza"
+  ],
+  "resumen": "Tres dormitorios exteriores con terraza en Puerta Bonita.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-40539-112682432"
  },
  {
   "id": "ya-112682591",
@@ -4425,6 +4721,32 @@
   "resumen": "Piso de 54 m² y 2 hab. en Puerta Bonita (3ª planta), a 2.776 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-72840-112687328"
+ },
+ {
+  "id": "ya-112692655",
+  "agencia": "Tecnocasa Estudio Carabanchel San Francisco",
+  "anuncios": 1,
+  "ascensor": true,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "C/ Antonio Antoranz",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 63,
+  "planta": "2ª planta",
+  "precio": 250000,
+  "precioAnterior": 280000,
+  "rasgos": [
+   "Ascensor",
+   "Interior",
+   "Rebajado"
+  ],
+  "resumen": "Dos dormitorios con ascensor; bajó 30.000 € desde el precio inicial.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-87125-112692655"
  },
  {
   "id": "ya-112694465",
@@ -4840,6 +5162,30 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-83561-112717203"
  },
  {
+  "id": "ya-112717211",
+  "agencia": "Alquizen",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 55,
+  "planta": "2ª planta",
+  "precio": 208000,
+  "rasgos": [
+   "Alquilado",
+   "Terraza"
+  ],
+  "resumen": "Piso alquilado de tres dormitorios en Puerta Bonita.",
+  "situacion": "alquilado",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-83561-112717211"
+ },
+ {
   "id": "ya-112717250",
   "agencia": "Alquizen",
   "anuncios": 1,
@@ -4884,6 +5230,31 @@
   "resumen": "Piso de 72 m² y 3 hab. en Abrantes (4ª planta), a 3.292 €/m²; se vende alquilado.",
   "situacion": "alquilado",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-83561-112717287"
+ },
+ {
+  "id": "ya-112717432",
+  "agencia": "Alquizen",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 65,
+  "planta": "2ª planta",
+  "precio": 221000,
+  "rasgos": [
+   "Alquilado",
+   "Exterior",
+   "Terraza"
+  ],
+  "resumen": "Tres dormitorios vendidos con inquilino; pensado para inversión.",
+  "situacion": "alquilado",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-83561-112717432"
  },
  {
   "id": "ya-112717600",
@@ -5135,7 +5506,8 @@
   "hab": 3,
   "m2": 65,
   "planta": "2ª planta",
-  "precio": 235000,
+  "precio": 230000,
+  "precioAnterior": 235000,
   "rasgos": [
    "Exterior",
    "Armarios"
@@ -5143,6 +5515,29 @@
   "resumen": "Piso de 65 m² y 3 hab. en Puerta Bonita (2ª planta), a 3.615 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-87934-112720090"
+ },
+ {
+  "id": "ya-112720157",
+  "agencia": "Tecnocasa Estudio Almendrales",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Almendrales",
+  "calle": "",
+  "cercania": 2,
+  "distrito": "Usera",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 61,
+  "planta": "3ª planta",
+  "precio": 220000,
+  "rasgos": [
+   "Exterior"
+  ],
+  "resumen": "Tres dormitorios exteriores en Almendrales, cerca del Manzanares por el lado de Usera.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-62059-112720157"
  },
  {
   "id": "ya-112721805",
@@ -5337,6 +5732,30 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-60984-112744458"
  },
  {
+  "id": "ya-112749813",
+  "agencia": "Tecnocasa Estudio Almendrales",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Almendrales",
+  "calle": "",
+  "cercania": 2,
+  "distrito": "Usera",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 63,
+  "planta": "4ª planta",
+  "precio": 210000,
+  "rasgos": [
+   "Alquilado",
+   "Exterior"
+  ],
+  "resumen": "Piso alquilado (800 €/mes) de tres dormitorios en Almendrales.",
+  "situacion": "alquilado",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-62059-112749813"
+ },
+ {
   "id": "ya-112750831",
   "agencia": "Tecnocasa Inmourgel",
   "anuncios": 2,
@@ -5479,6 +5898,29 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-87663-112754152"
  },
  {
+  "id": "ya-112755097",
+  "agencia": "Inmobiliarias Encuentro",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 59,
+  "planta": "",
+  "precio": 225000,
+  "rasgos": [
+   "Interior"
+  ],
+  "resumen": "Tres dormitorios interiores en Puerta Bonita; anuncio escueto.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-50889-112755097"
+ },
+ {
   "id": "ya-112757153",
   "agencia": "Vivienda Madrid",
   "anuncios": 1,
@@ -5502,6 +5944,30 @@
   "resumen": "Calle comercial principal de Carabanchel.",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-63190-112757153"
+ },
+ {
+  "id": "ya-112757482",
+  "agencia": "Soluciones Inmobiliarias Trial3",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 55,
+  "planta": "1ª planta",
+  "precio": 187000,
+  "rasgos": [
+   "Alquilado",
+   "Exterior"
+  ],
+  "resumen": "Venta sin posesión de un piso alquilado de dos dormitorios.",
+  "situacion": "alquilado",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-41382-112757482"
  },
  {
   "id": "ya-112758493",
@@ -5550,6 +6016,30 @@
   "resumen": "Piso de 80 m² y 3 hab. en Los Cármenes (3ª planta). a 2,750 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-38589-112758867"
+ },
+ {
+  "id": "ya-112760881",
+  "agencia": "Tecnocasa Estudio Carabanchel - Vista Alegre",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "C/ Clara Campoamor",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 53,
+  "planta": "4ª planta",
+  "precio": 170000,
+  "rasgos": [
+   "Interior",
+   "Buen €/m²"
+  ],
+  "resumen": "Opción económica de dos dormitorios, interior, en Clara Campoamor.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-61165-112760881"
  },
  {
   "id": "ya-112764141",
@@ -5717,6 +6207,31 @@
   "resumen": "Piso de 67 m² y 3 hab. en Zofío (4ª planta), a 2.834 €/m²; se vende alquilado.",
   "situacion": "alquilado",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-67187-112771402"
+ },
+ {
+  "id": "ya-112771923",
+  "agencia": "Inmobiliarias Encuentro",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 4,
+  "m2": 61,
+  "planta": "Bajo",
+  "precio": 245000,
+  "rasgos": [
+   "Exterior",
+   "4 dormitorios",
+   "Aire acondicionado"
+  ],
+  "resumen": "Bajo exterior con cuatro dormitorios en Puerta Bonita.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-50889-112771923"
  },
  {
   "id": "ya-112772101",
@@ -6012,6 +6527,30 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-39621-112782899"
  },
  {
+  "id": "ya-112784916",
+  "agencia": "RE/MAX New Life",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 68,
+  "planta": "4ª planta",
+  "precio": 230000,
+  "rasgos": [
+   "Interior",
+   "Aire acondicionado"
+  ],
+  "resumen": "Dos dormitorios interiores de 68 m² en un edificio de 1972.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-39458-112784916"
+ },
+ {
   "id": "ya-112785202",
   "agencia": "Redpiso Carabanchel-Oporto",
   "anuncios": 2,
@@ -6204,6 +6743,31 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-68909-112788386"
  },
  {
+  "id": "ya-112789538",
+  "agencia": "Vasane",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 59,
+  "planta": "4ª planta",
+  "precio": 197000,
+  "rasgos": [
+   "Reformado",
+   "Aire acondicionado",
+   "Interior"
+  ],
+  "resumen": "Piso reformado de dos dormitorios, interior y sin ascensor.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-38069-112789538"
+ },
+ {
   "id": "ya-112790005",
   "agencia": "",
   "anuncios": 1,
@@ -6279,7 +6843,7 @@
  {
   "id": "ya-112799661",
   "agencia": "Jacqueline Álvarez",
-  "anuncios": 1,
+  "anuncios": 2,
   "ascensor": false,
   "banos": 1,
   "barrio": "Abrantes",
@@ -6397,6 +6961,32 @@
   "resumen": "Piso de 74 m² y 3 hab. en Orcasur (2ª planta). a 3,230 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-39241-112800418"
+ },
+ {
+  "id": "ya-112800844",
+  "agencia": "Grupo Linkcasa",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "Zona Camino Viejo de Leganés",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 55,
+  "planta": "3ª planta",
+  "precio": 188000,
+  "precioAnterior": 193000,
+  "rasgos": [
+   "Exterior",
+   "Terraza",
+   "Rebajado"
+  ],
+  "resumen": "Dos dormitorios con terraza y rebaja reciente en Puerta Bonita.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-40733-112800844"
  },
  {
   "id": "ya-112801491",
@@ -6781,6 +7371,31 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-70321-112810977"
  },
  {
+  "id": "ya-112811571",
+  "agencia": "OCA Servicios Inmobiliarios",
+  "anuncios": 1,
+  "ascensor": true,
+  "banos": 1,
+  "barrio": "Opañel",
+  "calle": "",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 65,
+  "planta": "1ª planta",
+  "precio": 228000,
+  "rasgos": [
+   "Ascensor",
+   "Terraza",
+   "Accesible"
+  ],
+  "resumen": "Dos dormitorios con ascensor y terraza en Opañel, a unos 12 minutos del río.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-40433-112811571"
+ },
+ {
   "id": "ya-112811582",
   "agencia": "Tecnocasa",
   "anuncios": 1,
@@ -6829,6 +7444,30 @@
   "resumen": "Piso de 50 m² y 2 hab. en Acacias (bajo), a 4.480 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-38957-112811860"
+ },
+ {
+  "id": "ya-112812604",
+  "agencia": "Vivienda Madrid",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 59,
+  "planta": "3ª planta",
+  "precio": 244900,
+  "rasgos": [
+   "Exterior",
+   "Armarios empotrados"
+  ],
+  "resumen": "Tres dormitorios exteriores en Puerta Bonita, edificio de 1962.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-90547-112812604"
  },
  {
   "id": "ya-112815319",
@@ -6903,6 +7542,30 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-24148-112819553"
  },
  {
+  "id": "ya-112819774",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": true,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "Cerca metro Oporto",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 57,
+  "planta": "1ª planta",
+  "precio": 234000,
+  "rasgos": [
+   "Ascensor",
+   "Armarios empotrados"
+  ],
+  "resumen": "Dos dormitorios con ascensor muy cerca del metro Oporto.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-54876-112819774"
+ },
+ {
   "id": "ya-112820336",
   "agencia": "Alma Home",
   "anuncios": 1,
@@ -6952,6 +7615,30 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-39647-112821308"
  },
  {
+  "id": "ya-112824062",
+  "agencia": "Arroyoastur",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Las Águilas",
+  "calle": "C/ Blas Cabrera",
+  "cercania": 4,
+  "distrito": "Latina",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 77,
+  "planta": "2ª planta",
+  "precio": 250000,
+  "rasgos": [
+   "Piscina",
+   "Exterior"
+  ],
+  "resumen": "Tres dormitorios en urbanización con piscina en Las Águilas.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-45486-112824062"
+ },
+ {
   "id": "ya-112824775",
   "agencia": "Urosa Target Group",
   "anuncios": 1,
@@ -6973,6 +7660,30 @@
   "resumen": "Piso de 62 m² y 3 hab. en Zofío (3ª planta). a 4,032 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-81229-112824775"
+ },
+ {
+  "id": "ya-112825125",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": true,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 54,
+  "planta": "4ª planta",
+  "precio": 240000,
+  "rasgos": [
+   "Exterior",
+   "Ascensor"
+  ],
+  "resumen": "Cuarta planta exterior con ascensor en un edificio de 1966.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-24148-112825125"
  },
  {
   "id": "ya-112826806",
@@ -7069,6 +7780,29 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-83770-112828023"
  },
  {
+  "id": "ya-112828085",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Puerta Bonita",
+  "calle": "",
+  "cercania": 3,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 66,
+  "planta": "3ª planta",
+  "precio": 199000,
+  "rasgos": [
+   "Buen €/m²"
+  ],
+  "resumen": "Tres dormitorios por debajo de 200.000 € en Puerta Bonita; anuncio con pocos datos.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-77186-112828085"
+ },
+ {
   "id": "ya-112828192",
   "agencia": "Alfa Madrid Home",
   "anuncios": 1,
@@ -7139,6 +7873,31 @@
   "resumen": "Piso de 60 m² y 3 hab. en Vista Alegre (semisótano), a 3.083 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-62474-112830446"
+ },
+ {
+  "id": "ya-112832151",
+  "agencia": "Moradia Servicios Inmobiliarios",
+  "anuncios": 1,
+  "ascensor": true,
+  "banos": 1,
+  "barrio": "Buenavista",
+  "calle": "",
+  "cercania": 4,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 1,
+  "m2": 67,
+  "planta": "3ª planta",
+  "precio": 250000,
+  "rasgos": [
+   "Garaje",
+   "Ascensor",
+   "Jardín"
+  ],
+  "resumen": "Un dormitorio amplio con garaje en el PAU de Carabanchel, lejos del río.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-39621-112832151"
  },
  {
   "id": "ya-112833310",
@@ -7354,6 +8113,55 @@
   "url": "https://www.yaencontre.com/venta/piso/inmueble-81659-112840806"
  },
  {
+  "id": "ya-112842103",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Comillas",
+  "calle": "",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 50,
+  "planta": "3ª planta",
+  "precio": 250000,
+  "rasgos": [
+   "Exterior",
+   "Orientación este"
+  ],
+  "resumen": "Piso exterior de dos dormitorios en Comillas, justo en el límite de precio.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-7254-112842103"
+ },
+ {
+  "id": "ya-112847606",
+  "agencia": "",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "San Isidro",
+  "calle": "C/ del Mochuelo",
+  "cercania": 2,
+  "distrito": "Carabanchel",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 3,
+  "m2": 69,
+  "planta": "3ª planta",
+  "precio": 215000,
+  "rasgos": [
+   "Exterior",
+   "Terraza",
+   "Suroeste"
+  ],
+  "resumen": "Tres dormitorios con terraza al suroeste en San Isidro, sin ascensor.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-62845-112847606"
+ },
+ {
   "id": "ya-112848039",
   "agencia": "Quarzo Real Estate",
   "anuncios": 1,
@@ -7425,6 +8233,54 @@
   "resumen": "Piso de 57 m² y 2 hab. en Vista Alegre (2ª planta), a 4.123 €/m².",
   "situacion": "libre",
   "url": "https://www.yaencontre.com/venta/piso/inmueble-55427-112849255"
+ },
+ {
+  "id": "ya-112852545",
+  "agencia": "Roan",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "San Fermín",
+  "calle": "C/ San Mario",
+  "cercania": 4,
+  "distrito": "Usera",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 1,
+  "m2": 52,
+  "planta": "3ª planta",
+  "precio": 183000,
+  "rasgos": [
+   "Ocupado",
+   "Interior"
+  ],
+  "resumen": "Vivienda ocupada en San Fermín, sin visitas.",
+  "situacion": "ocupado",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-38957-112852545"
+ },
+ {
+  "id": "ya-112853013",
+  "agencia": "Tecnocasa",
+  "anuncios": 1,
+  "ascensor": false,
+  "banos": 1,
+  "barrio": "Aluche",
+  "calle": "C/ Valmojado",
+  "cercania": 4,
+  "distrito": "Latina",
+  "encontrado": "2026-10-20",
+  "fuente": "yaencontre",
+  "hab": 2,
+  "m2": 69,
+  "planta": "4ª planta",
+  "precio": 189999,
+  "rasgos": [
+   "Exterior",
+   "Terraza"
+  ],
+  "resumen": "Dos dormitorios con terraza en Aluche, lejos de Madrid Río.",
+  "situacion": "libre",
+  "url": "https://www.yaencontre.com/venta/piso/inmueble-56750-112853013"
  },
  {
   "id": "ya-57075297",

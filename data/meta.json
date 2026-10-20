@@ -1,11 +1,13 @@
 {
- "ultimaRevision": "2026-10-20T11:30:00+02:00",
- "nuevos": 41,
+ "ultimaRevision": "2026-10-20T20:46:00+02:00",
+ "nuevos": 76,
  "fuentes": [
   "yaencontre",
   "Housfy",
   "Tecnocasa",
-  "Redpiso"
+  "Redpiso",
+  "Solvia",
+  "Habitaclia"
  ],
  "alertas": {
   "activo": true,
